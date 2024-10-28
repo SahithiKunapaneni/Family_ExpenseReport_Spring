@@ -1,0 +1,50 @@
+ body {
+  background-color:f5d9ee  ;
+       }
+       table {
+         background-color:#ccf7be  ;
+       }
+       .tableHeader{
+       font-family: "Lucida Console", "Courier New", monospace;
+       font-size :18px;
+       font-weight : bold;
+       }
+       td{
+       font-family: "Lucida Console", "Courier New", monospace;
+       font-size :14px;
+       font-weight : bold;
+       }
+       .button {
+			  background-color: #f96978; /* Green */
+			  border: none;
+			  color: white;
+			  padding: 2px 20px;
+			  text-align: center;
+			  text-decoration: none;
+			  display: inline-block;
+			  font-size: 12px;
+			}
+		/* unvisited link */
+		a:link {
+		  color: red;
+		}
+		
+		/* visited link */
+		a:visited {
+		  color: green;
+		}
+		
+		/* mouse over link */
+		a:hover {
+		  color: hotpink;
+		}
+		
+		/* selected link */
+		a:active {
+		  color: blue;
+         }
+       #errorsTd{
+       font-family: "Lucida Console", "Courier New", monospace;
+       font-size :12px;
+       font-weight : bold;
+       }
